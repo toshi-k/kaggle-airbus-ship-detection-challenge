@@ -6,7 +6,7 @@ I implemented Oriented SSD for the kaggle competition ["Airbus Ship Detection Ch
 ![diagram](https://raw.githubusercontent.com/toshi-k/kaggle-airbus-ship-detection-challenge/master/img/diagram.png)
 
 ## Example
-![example](https://raw.githubusercontent.com/toshi-k/kaggle-airbus-ship-detection-challenge/master/img/example.png)
+![example](https://raw.githubusercontent.com/toshi-k/kaggle-airbus-ship-detection-challenge/master/img/examples.png)
 
 ## References
 
